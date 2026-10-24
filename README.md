@@ -1,2 +1,1 @@
-# mi-landing
-Mi landing Bootcamp
+Esta es una landing para la primer entrega de la clase de Git del bootcamp Devlight 2026.
